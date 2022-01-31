@@ -11,3 +11,4 @@ vendor
 coverage
 .idea
 pkg
+docker-compose.yml

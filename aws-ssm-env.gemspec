@@ -21,7 +21,7 @@ Gem::Specification.new do |spec|
     'changelog_uri'   => 'https://github.com/sonodar/aws-ssm-env-ruby/tree/master/CHANGELOG.md'
   }
 
-  spec.add_dependency 'aws-sdk-ssm', '~>1'
+  spec.add_dependency 'aws-sdk-ssm', '1.128.0'
 
   spec.add_development_dependency 'rake'
   spec.add_development_dependency 'rspec'
